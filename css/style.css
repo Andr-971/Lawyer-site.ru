@@ -1570,6 +1570,7 @@ body::-webkit-scrollbar-track {
 
 .reviews {
   background: url(/img/fon-block-2.webp) center/cover no-repeat;
+  background: url(/img/fon-block-2.png) center/cover no-repeat;
   padding-top: clamp(60px, 4.1666666667vw, 80px);
   padding-bottom: clamp(60px, 3.9583333333vw, 76px);
   overflow: hidden;
